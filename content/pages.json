@@ -74,10 +74,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-11-10T21:51:20.968Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T21:59:30.317Z",
+    "updatedAt": "2026-11-10T21:51:20.968Z",
     "updatedBy": "derek"
   },
   {
@@ -90,10 +90,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-10T21:51:20.968Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T21:51:20.968Z",
+    "updatedAt": "2026-11-10T21:59:32.355Z",
     "updatedBy": "derek"
   }
 ]
