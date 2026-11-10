@@ -161,10 +161,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-11-10T23:03:55.638Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:05:58.280Z",
+    "updatedAt": "2026-11-10T23:03:55.638Z",
     "updatedBy": "derek"
   },
   {
@@ -177,10 +177,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-10T23:03:55.638Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:03:55.638Z",
+    "updatedAt": "2026-11-10T23:06:00.243Z",
     "updatedBy": "derek"
   },
   {
