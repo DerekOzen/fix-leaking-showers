@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Index",
     "seoTitle": "Leaking Shower Repairs Sydney | Fix Leaking Showers",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
-    "updatedAt": "2026-11-12T09:56:51.513Z",
+    "status": "published",
+    "updatedAt": "2026-11-12T09:57:12.490Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-12T09:56:51.513Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
