@@ -125,7 +125,8 @@
     "status": "published",
     "createdAt": "2026-11-12T09:58:16.694Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T09:58:44.204Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T09:59:01.398Z",
+    "updatedBy": "derek",
+    "noindex": true
   }
 ]
