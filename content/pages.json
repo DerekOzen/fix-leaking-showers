@@ -652,10 +652,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-11-13T20:39:38.004Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-13T20:39:38.004Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-13T20:43:30.497Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
