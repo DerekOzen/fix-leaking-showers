@@ -641,5 +641,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-13T11:36:17.318Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-41",
+    "path": "/nsw/leaking-shower-repairs-blacktown",
+    "type": "location",
+    "title": "Leaking Shower Repairs Blacktown | No Tile Removal",
+    "seoTitle": "Leaking Shower Repairs Blacktown | No Tile Removal",
+    "seoDescription": "Leaking shower repairs across Blacktown, from Castle Hill to Rouse Hill. No tile removal, certificate supplied, 100% guarantee. We come to you.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-11-13T20:39:38.004Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-13T20:39:38.004Z",
+    "updatedBy": "derek"
   }
 ]
