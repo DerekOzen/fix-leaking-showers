@@ -8,7 +8,7 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700;800&family=Outfit:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-11-13T11:23:29.173Z",
+    "updatedAt": "2026-11-14T03:29:44.506Z",
     "layout": {
       "enabled": false,
       "rows": [
@@ -25,7 +25,8 @@
       ],
       "accent": "#0f766e",
       "maxWidth": 1200
-    }
+    },
+    "deleted": true
   },
   {
     "id": "header-2",
