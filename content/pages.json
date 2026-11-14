@@ -107,12 +107,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T10:58:22.666Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-13T11:03:57.205Z",
+    "updatedAt": "2026-11-14T03:05:33.271Z",
     "updatedBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-8",
@@ -663,10 +664,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T20:39:38.004Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-13T20:48:44.814Z",
+    "updatedAt": "2026-11-14T03:05:33.271Z",
     "updatedBy": "derek",
     "isHome": false
   }
