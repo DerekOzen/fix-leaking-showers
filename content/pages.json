@@ -15,5 +15,21 @@
     "createdAt": "2026-11-13T10:56:48.029Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/home-2",
+    "type": "page",
+    "title": "Home 2",
+    "seoTitle": "Leaking Shower Repairs Sydney | Fix Leaking Showers",
+    "seoDescription": "Sydney's leaking shower specialists since 2004. We reseal, regrout and re-waterproof showers without removing your tiles. Fixed-price quote, 100% guarantee.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-14T03:27:26.995Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-14T03:27:26.995Z",
+    "createdBy": "derek"
   }
 ]
