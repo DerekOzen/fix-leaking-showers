@@ -42,10 +42,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-14T03:28:39.403Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-14T03:28:39.403Z",
+    "updatedAt": "2026-11-14T03:30:57.034Z",
     "updatedBy": "derek"
   },
   {
@@ -58,10 +58,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-14T03:28:39.403Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-14T03:28:39.403Z",
+    "updatedAt": "2026-11-14T03:30:57.034Z",
     "updatedBy": "derek"
   },
   {
@@ -74,10 +74,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-14T03:28:39.403Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-14T03:28:39.403Z",
+    "updatedAt": "2026-11-14T03:30:57.034Z",
     "updatedBy": "derek"
   },
   {
@@ -90,10 +90,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-14T03:28:39.403Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-14T03:28:39.403Z",
+    "updatedAt": "2026-11-14T03:30:57.034Z",
     "updatedBy": "derek"
   },
   {
@@ -106,10 +106,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-14T03:28:39.403Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-14T03:28:39.403Z",
+    "updatedAt": "2026-11-14T03:30:57.034Z",
     "updatedBy": "derek"
   },
   {
@@ -122,10 +122,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-14T03:28:39.403Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-14T03:28:39.403Z",
+    "updatedAt": "2026-11-14T03:30:57.034Z",
     "updatedBy": "derek"
   }
 ]
