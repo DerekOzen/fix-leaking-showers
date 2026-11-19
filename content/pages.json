@@ -332,8 +332,10 @@
     "status": "published",
     "createdAt": "2026-11-14T05:27:21.225Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:15:50.752Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-parramatta.jpg",
+    "featuredImageAlt": "Compact ensuite in a new apartment tower"
   },
   {
     "id": "pg-27",
