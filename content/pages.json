@@ -566,8 +566,10 @@
     "status": "published",
     "createdAt": "2026-11-15T20:31:21.182Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:13:03.391Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-blue-mountains.jpg",
+    "featuredImageAlt": "Cottage bathroom with a tiled shower and timber window"
   },
   {
     "id": "pg-42",
