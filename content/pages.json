@@ -314,8 +314,10 @@
     "status": "published",
     "createdAt": "2026-11-14T05:27:21.225Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:15:42.954Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-northern-beaches.jpg",
+    "featuredImageAlt": "Bright apartment bathroom with a glass shower screen"
   },
   {
     "id": "pg-26",
