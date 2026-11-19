@@ -1014,8 +1014,10 @@
     "status": "published",
     "createdAt": "2026-11-15T23:34:16.863Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:11:15.018Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-how-to-waterproof-a-shower.jpg",
+    "featuredImageAlt": "Liquid waterproofing membrane being rolled onto the wall of a shower recess before tiling"
   },
   {
     "id": "pg-70",
