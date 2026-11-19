@@ -984,8 +984,10 @@
     "status": "published",
     "createdAt": "2026-11-15T23:34:16.863Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:12:04.348Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-how-to-repair-grout-in-a-shower.jpg",
+    "featuredImageAlt": "Grout rake removing cracked grout from between shower wall tiles"
   },
   {
     "id": "pg-68",
