@@ -800,8 +800,10 @@
     "status": "published",
     "createdAt": "2026-11-15T20:31:21.182Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:17:08.763Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-wollondilly.jpg",
+    "featuredImageAlt": "Country-home bathroom with a tiled shower recess"
   },
   {
     "id": "pg-53",
