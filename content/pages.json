@@ -462,8 +462,10 @@
     "status": "published",
     "createdAt": "2026-11-14T08:47:33.177Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:14:05.540Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-fairfield.jpg",
+    "featuredImageAlt": "Well-used family bathroom with a shower over a tiled base"
   },
   {
     "id": "pg-35",
