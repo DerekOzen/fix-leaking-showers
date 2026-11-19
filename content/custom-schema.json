@@ -46,7 +46,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:48.813Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-7872B09F",
@@ -91,7 +95,11 @@
         "issue_reason": "No featured image exists on this page, so primaryImageOfPage is omitted.",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:49.276Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-2763B97C",
@@ -136,7 +144,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:49.829Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8A4A7657",
@@ -181,7 +193,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:50.839Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-02CF4F1B",
@@ -226,7 +242,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:51.374Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-217793DC",
@@ -271,7 +291,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:51.807Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8E782A19",
@@ -316,7 +340,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:52.265Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A2C6D4BC",
@@ -361,7 +389,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:53.310Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-38327C7F",
@@ -406,7 +438,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:53.906Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8485BC10",
@@ -451,7 +487,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:54.629Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-CE9771E3",
@@ -496,7 +536,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:55.137Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-82E9972A",
@@ -541,7 +585,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:55.538Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4B52F176",
@@ -586,7 +634,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:56.002Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4F1ECFC3",
@@ -631,7 +683,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:57.075Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D4776635",
@@ -676,7 +732,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:57.705Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D8C256F5",
@@ -721,7 +781,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:58.133Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-AADBDD20",
@@ -766,7 +830,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:58.824Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D2184A1E",
@@ -811,7 +879,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:59.439Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9E795EDE",
@@ -856,7 +928,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:10:59.856Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-90984E41",
@@ -901,7 +977,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:00.290Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-54C8FB3B",
@@ -946,7 +1026,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:01.146Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4608E4E1",
@@ -991,7 +1075,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:01.571Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-72DF13C9",
@@ -1036,7 +1124,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:02.051Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-356D7A58",
@@ -1081,7 +1173,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:02.584Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-B992EC85",
@@ -1126,7 +1222,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:03.022Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FE7AD803",
@@ -1171,7 +1271,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:03.529Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-BB73AA4E",
@@ -1216,7 +1320,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:03.937Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-40F60235",
@@ -1261,7 +1369,11 @@
         "issue_reason": "Featured image taken from the on-page hero; the page og:image currently points to payment-cards.png.",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:04.901Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-56E0B79B",
@@ -1306,7 +1418,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:05.686Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E9F62BA6",
@@ -1351,7 +1467,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:06.761Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-06554F07",
@@ -1396,7 +1516,11 @@
         "issue_reason": "Featured image taken from the on-page hero; the page og:image currently points to payment-cards.png.",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:08.100Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-9A48F022",
@@ -1441,7 +1565,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:08.711Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-EC993061",
@@ -1486,7 +1614,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:09.783Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-92B4BD0E",
@@ -1531,7 +1663,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:10.412Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-23CEC116",
@@ -1576,7 +1712,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:10.824Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-53F130EA",
@@ -1621,7 +1761,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:11.250Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-6126AFB6",
@@ -1666,7 +1810,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:11.671Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-34327E8C",
@@ -1711,7 +1859,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:12.459Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8CA99907",
@@ -1756,7 +1908,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:12.951Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4066C704",
@@ -1801,7 +1957,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:13.510Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-20EB1CC1",
@@ -1846,7 +2006,11 @@
         "issue_reason": "Featured image taken from the on-page hero; the page og:image currently points to payment-cards.png.",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:14.409Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-DCC04044",
@@ -1891,7 +2055,11 @@
         "issue_reason": "Featured image taken from the on-page hero; the page og:image currently points to payment-cards.png.",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:15.189Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-BD775468",
@@ -1936,7 +2104,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:15.792Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-C7CF3720",
@@ -1981,7 +2153,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:16.437Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-61A0320A",
@@ -2026,7 +2202,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:16.891Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-6A0F8093",
@@ -2071,7 +2251,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:17.396Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-739E0482",
@@ -2116,7 +2300,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:17.836Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-0A4A5237",
@@ -2161,7 +2349,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:18.304Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-8EC5215D",
@@ -2206,7 +2398,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:18.741Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-27CF08F6",
@@ -2251,7 +2447,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:19.220Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F9AC37C3",
@@ -2296,7 +2496,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:19.750Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-62A71D36",
@@ -2341,7 +2545,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:20.224Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A5F9CA0C",
@@ -2386,7 +2594,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:20.964Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A2260DBC",
@@ -2431,7 +2643,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:22.178Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-5C579993",
@@ -2476,7 +2692,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:22.711Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-7CE7BD7A",
@@ -2521,7 +2741,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:23.133Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-AC283DF3",
@@ -2566,7 +2790,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:23.823Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-839BFCAA",
@@ -2611,7 +2839,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:24.328Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-D65DE382",
@@ -2656,7 +2888,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:25.138Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-831E1EE2",
@@ -2701,7 +2937,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:25.713Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A6A5C575",
@@ -2746,7 +2986,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:26.133Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-BAA33EA2",
@@ -2791,7 +3035,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:26.599Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-3F453D8B",
@@ -2836,7 +3084,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:27.246Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-0704FC0D",
@@ -2881,7 +3133,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:27.895Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-6CC13842",
@@ -2926,7 +3182,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:28.926Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-FE644794",
@@ -2971,7 +3231,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:29.531Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F9225F2C",
@@ -3016,7 +3280,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:30.045Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A591069E",
@@ -3061,7 +3329,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:31.036Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-EC448ACF",
@@ -3106,7 +3378,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:31.900Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-06816A35",
@@ -3151,7 +3427,11 @@
         "issue_reason": "No featured image exists on this page, so primaryImageOfPage is omitted.",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:32.278Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-F9489DE8",
@@ -3196,7 +3476,11 @@
         "issue_reason": "No featured image exists on this page, so primaryImageOfPage is omitted.",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:33.429Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-12FD23F3",
@@ -3241,7 +3525,11 @@
         "issue_reason": "",
         "source_references": "live-crawl:2026-11-19;sitemap:fixleakingshowers.com.au/sitemap.xml;gbp-cid:0xcfe7a32b7592b5eb;user-brief",
         "schema_version": "1.1"
-      }
+      },
+      "suppressionStatus": "PASS",
+      "verifiedAt": "2026-11-19T06:11:34.007Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     }
   ]
 }
