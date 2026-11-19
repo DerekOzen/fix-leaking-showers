@@ -1,9 +1,21 @@
 {
-  "name": "Fix Leaking Shower Repairs",
-  "legalName": "Fix Leaking Shower Repairs",
+  "name": "Fix Leaking Showers",
+  "legalName": "Fix Leaking Showers",
   "phone": "1300 525 699",
   "url": "https://fixleakingshowers.com.au/",
   "country": "AU",
   "areaServed": "Sydney",
-  "priceRange": "$$"
+  "priceRange": "$$-$$$",
+  "email": "info@fixleakingshowers.com.au",
+  "streetAddress": "84 Gordon Rd",
+  "state": "NSW",
+  "postcode": "2144",
+  "suburb": "Auburn",
+  "openingHours": "Open 6 days. Emergency leaks attended around the clock.",
+  "latitude": "-33.56223383631613",
+  "longitude": "150.90788462569537",
+  "logo": "https://fixleakingshowers.com.au/uploads/contemporary-f-mark-shower-repair-wordma-1fe8e187.png",
+  "image": "https://fixleakingshowers.com.au/uploads/fix-leaking-showers-tradesman-sealing-a-leaking.jpg",
+  "facebook": "https://www.facebook.com/people/Fix-leaking-Showers/100063545050348/",
+  "instagram": "https://www.instagram.com/fixleakingshowers/"
 }
