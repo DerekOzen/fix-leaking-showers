@@ -752,8 +752,10 @@
     "status": "published",
     "createdAt": "2026-11-15T22:12:26.451Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:09:15.187Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-balcony-leak-warning-signs.jpg",
+    "featuredImageAlt": "White salt deposits along the tiled edge of a balcony with a stained underside"
   },
   {
     "id": "pg-55",
