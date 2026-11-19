@@ -1,10 +1,10 @@
 {
-  "name": "fixleakingshowers.com.au",
-  "tagline": "",
+  "name": "Fix Leaking Showers",
+  "tagline": "Sydney's Leaking Shower Specialist",
   "phone": "1300 525 699",
-  "email": "",
+  "email": "info@fixleakingshowers.com.au",
   "areas": "Sydney",
-  "hoursWeek": "Mon–Fri 9am–5pm",
-  "hoursSat": "Closed",
-  "siteUrl": "https://fixleakingshowers.com.au"
+  "hoursWeek": "Open 6 days. Emergency leaks attended around the clock.",
+  "hoursSat": "Open 6 days. Emergency leaks attended around the clock.",
+  "siteUrl": "https://fixleakingshowers.com.au/"
 }
