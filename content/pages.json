@@ -368,8 +368,10 @@
     "status": "published",
     "createdAt": "2026-11-14T05:27:21.225Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:16:36.933Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-sydney.jpg",
+    "featuredImageAlt": "Apartment ensuite in a high-rise city tower"
   },
   {
     "id": "pg-29",
