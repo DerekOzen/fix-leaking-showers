@@ -1207,5 +1207,53 @@
     "createdBy": "joshua",
     "updatedAt": "2026-11-19T00:31:29.004Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-77",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Privacy Policy | Fix Leaking Showers",
+    "seoTitle": "Privacy Policy | Fix Leaking Showers",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-19T00:34:15.667Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-19T00:34:15.667Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-78",
+    "path": "/terms",
+    "type": "page",
+    "title": "Terms & Conditions | Fix Leaking Showers",
+    "seoTitle": "Terms & Conditions | Fix Leaking Showers",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-19T00:34:15.667Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-19T00:34:15.667Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-79",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You | Fix Leaking Showers Sydney",
+    "seoTitle": "Thank You | Fix Leaking Showers Sydney",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-19T00:34:15.667Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-19T00:34:15.667Z",
+    "updatedBy": "joshua"
   }
 ]
