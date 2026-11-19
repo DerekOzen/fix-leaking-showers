@@ -756,8 +756,10 @@
     "status": "published",
     "createdAt": "2026-11-15T20:31:21.182Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:16:21.307Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-strathfield.jpg",
+    "featuredImageAlt": "Bathroom in a large Federation home with a tiled shower recess"
   },
   {
     "id": "pg-51",
