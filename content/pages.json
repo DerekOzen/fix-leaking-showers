@@ -350,8 +350,10 @@
     "status": "published",
     "createdAt": "2026-11-14T05:27:21.225Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:16:28.774Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-sutherland-shire.jpg",
+    "featuredImageAlt": "Light-filled bathroom in a beachside apartment"
   },
   {
     "id": "pg-28",
