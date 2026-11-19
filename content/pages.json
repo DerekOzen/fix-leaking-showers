@@ -926,8 +926,10 @@
     "status": "published",
     "createdAt": "2026-11-15T22:12:26.451Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:17:54.151Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-shower-leaking-through-the-floor.jpg",
+    "featuredImageAlt": "Water stain on a ceiling beneath an upstairs shower"
   },
   {
     "id": "pg-60",
