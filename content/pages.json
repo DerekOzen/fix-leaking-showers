@@ -386,8 +386,10 @@
     "status": "published",
     "createdAt": "2026-11-14T08:47:33.177Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:12:45.999Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-bayside.jpg",
+    "featuredImageAlt": "Apartment bathroom with a semi-frameless shower screen"
   },
   {
     "id": "pg-31",
