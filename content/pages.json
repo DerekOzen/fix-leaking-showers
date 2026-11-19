@@ -1171,5 +1171,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-16T02:04:05.650Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-75",
+    "path": "/contact",
+    "type": "page",
+    "title": "Contact Page Base44",
+    "seoTitle": "Contact Page Base44",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-19T00:17:23.332Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-19T00:17:23.332Z",
+    "updatedBy": "joshua"
   }
 ]
