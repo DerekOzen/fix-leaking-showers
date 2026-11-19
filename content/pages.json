@@ -386,8 +386,10 @@
     "status": "published",
     "createdAt": "2026-11-14T05:27:21.225Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:16:44.987Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/loc-hero-the-hills-shire.jpg",
+    "featuredImageAlt": "Family bathroom with a walk-in shower in a two-storey home"
   },
   {
     "id": "pg-30",
