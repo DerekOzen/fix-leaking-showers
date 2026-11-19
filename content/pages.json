@@ -1066,8 +1066,10 @@
     "status": "published",
     "createdAt": "2026-11-15T23:34:16.863Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:11:31.938Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-shower-waterproofing-membranes-explained.jpg",
+    "featuredImageAlt": "Cross-section of a shower floor showing tile, adhesive, membrane and substrate layers"
   },
   {
     "id": "pg-73",
