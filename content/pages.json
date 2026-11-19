@@ -1182,8 +1182,10 @@
     "status": "published",
     "createdAt": "2026-11-15T23:34:16.863Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:18:56.464Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-fix-a-leaky-shower-head.jpg",
+    "featuredImageAlt": "Water dripping from a chrome shower head with the taps turned off"
   },
   {
     "id": "pg-74",
