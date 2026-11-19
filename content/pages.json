@@ -480,8 +480,10 @@
     "status": "published",
     "createdAt": "2026-11-14T08:47:33.177Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:14:14.296Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/payment-cards.png",
+    "featuredImageAlt": "Visa, Mastercard and American Express accepted"
   },
   {
     "id": "pg-36",
