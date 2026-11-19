@@ -966,8 +966,10 @@
     "status": "published",
     "createdAt": "2026-11-15T23:34:16.863Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:11:55.367Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-how-to-fix-a-leaky-shower-faucet.jpg",
+    "featuredImageAlt": "Shower tap with its handle and cover plate removed, showing the spindle"
   },
   {
     "id": "pg-67",
