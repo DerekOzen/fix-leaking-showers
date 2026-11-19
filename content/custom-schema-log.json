@@ -1,0 +1,299 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mwn5evoa-2lg2",
+      "at": "2026-11-19T06:07:39.226Z",
+      "count": 72,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-10C7C291"
+        },
+        {
+          "path": "/service-areas",
+          "newRecordId": "SCHEMA-7872B09F"
+        },
+        {
+          "path": "/bathroom-grouting",
+          "newRecordId": "SCHEMA-2763B97C"
+        },
+        {
+          "path": "/bathroom-makeovers",
+          "newRecordId": "SCHEMA-8A4A7657"
+        },
+        {
+          "path": "/bathroom-sealing",
+          "newRecordId": "SCHEMA-02CF4F1B"
+        },
+        {
+          "path": "/bathroom-silicone-work",
+          "newRecordId": "SCHEMA-217793DC"
+        },
+        {
+          "path": "/bathroom-tiling-sydney",
+          "newRecordId": "SCHEMA-8E782A19"
+        },
+        {
+          "path": "/bathroom-waterproofing",
+          "newRecordId": "SCHEMA-A2C6D4BC"
+        },
+        {
+          "path": "/leaking-balcony-repair",
+          "newRecordId": "SCHEMA-38327C7F"
+        },
+        {
+          "path": "/leaking-shower-repairs",
+          "newRecordId": "SCHEMA-8485BC10"
+        },
+        {
+          "path": "/leaking-shower-screen-repairs",
+          "newRecordId": "SCHEMA-CE9771E3"
+        },
+        {
+          "path": "/shower-base-repairs",
+          "newRecordId": "SCHEMA-82E9972A"
+        },
+        {
+          "path": "/water-leak-detection",
+          "newRecordId": "SCHEMA-4B52F176"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-blacktown",
+          "newRecordId": "SCHEMA-4F1ECFC3"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-canterbury-bankstown",
+          "newRecordId": "SCHEMA-D4776635"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-inner-west",
+          "newRecordId": "SCHEMA-D8C256F5"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-liverpool",
+          "newRecordId": "SCHEMA-AADBDD20"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-northern-beaches",
+          "newRecordId": "SCHEMA-D2184A1E"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-parramatta",
+          "newRecordId": "SCHEMA-9E795EDE"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-sutherland-shire",
+          "newRecordId": "SCHEMA-90984E41"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-sydney",
+          "newRecordId": "SCHEMA-54C8FB3B"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-the-hills-shire",
+          "newRecordId": "SCHEMA-4608E4E1"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-bayside",
+          "newRecordId": "SCHEMA-72DF13C9"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-campbelltown",
+          "newRecordId": "SCHEMA-356D7A58"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-canada-bay",
+          "newRecordId": "SCHEMA-B992EC85"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-cumberland",
+          "newRecordId": "SCHEMA-FE7AD803"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-fairfield",
+          "newRecordId": "SCHEMA-BB73AA4E"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-georges-river",
+          "newRecordId": "SCHEMA-40F60235"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-hornsby",
+          "newRecordId": "SCHEMA-56E0B79B"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-penrith",
+          "newRecordId": "SCHEMA-E9F62BA6"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-randwick",
+          "newRecordId": "SCHEMA-06554F07"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-ryde",
+          "newRecordId": "SCHEMA-9A48F022"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-waverley",
+          "newRecordId": "SCHEMA-EC993061"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-blue-mountains",
+          "newRecordId": "SCHEMA-92B4BD0E"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-burwood",
+          "newRecordId": "SCHEMA-23CEC116"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-camden",
+          "newRecordId": "SCHEMA-53F130EA"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-hawkesbury",
+          "newRecordId": "SCHEMA-6126AFB6"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-hunters-hill",
+          "newRecordId": "SCHEMA-34327E8C"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-ku-ring-gai",
+          "newRecordId": "SCHEMA-8CA99907"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-lane-cove",
+          "newRecordId": "SCHEMA-4066C704"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-mosman",
+          "newRecordId": "SCHEMA-20EB1CC1"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-north-sydney",
+          "newRecordId": "SCHEMA-DCC04044"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-strathfield",
+          "newRecordId": "SCHEMA-BD775468"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-willoughby",
+          "newRecordId": "SCHEMA-C7CF3720"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-wollondilly",
+          "newRecordId": "SCHEMA-61A0320A"
+        },
+        {
+          "path": "/nsw/leaking-shower-repairs-woollahra",
+          "newRecordId": "SCHEMA-6A0F8093"
+        },
+        {
+          "path": "/balcony-leak-warning-signs-you-shouldnt-ignore",
+          "newRecordId": "SCHEMA-739E0482"
+        },
+        {
+          "path": "/problems/black-mould-in-the-shower",
+          "newRecordId": "SCHEMA-0A4A5237"
+        },
+        {
+          "path": "/early-warning-signs-of-hidden-bathroom-water-damage",
+          "newRecordId": "SCHEMA-8EC5215D"
+        },
+        {
+          "path": "/problems/mould-on-the-bathroom-ceiling",
+          "newRecordId": "SCHEMA-27CF08F6"
+        },
+        {
+          "path": "/problems/shower-leaking-behind-the-wall",
+          "newRecordId": "SCHEMA-F9AC37C3"
+        },
+        {
+          "path": "/problems/shower-leaking-through-the-floor",
+          "newRecordId": "SCHEMA-62A71D36"
+        },
+        {
+          "path": "/problems/water-leaking-through-bathroom-ceiling",
+          "newRecordId": "SCHEMA-A5F9CA0C"
+        },
+        {
+          "path": "/water-leaking-through-bathroom-walls-common-causes-sydney-homes",
+          "newRecordId": "SCHEMA-A2260DBC"
+        },
+        {
+          "path": "/problems/why-is-my-shower-leaking",
+          "newRecordId": "SCHEMA-5C579993"
+        },
+        {
+          "path": "/guides/bathroom-waterproofing-cost-sydney",
+          "newRecordId": "SCHEMA-7CE7BD7A"
+        },
+        {
+          "path": "/guides/how-often-to-reseal-or-regrout-a-shower",
+          "newRecordId": "SCHEMA-AC283DF3"
+        },
+        {
+          "path": "/how-to-fix-a-leaking-shower",
+          "newRecordId": "SCHEMA-839BFCAA"
+        },
+        {
+          "path": "/how-to-fix-a-leaky-shower-faucet",
+          "newRecordId": "SCHEMA-D65DE382"
+        },
+        {
+          "path": "/how-to-repair-grout-in-a-shower",
+          "newRecordId": "SCHEMA-831E1EE2"
+        },
+        {
+          "path": "/guides/how-to-reseal-a-shower",
+          "newRecordId": "SCHEMA-A6A5C575"
+        },
+        {
+          "path": "/guides/how-to-waterproof-a-shower",
+          "newRecordId": "SCHEMA-BAA33EA2"
+        },
+        {
+          "path": "/guides/is-a-leaking-shower-covered-by-insurance",
+          "newRecordId": "SCHEMA-3F453D8B"
+        },
+        {
+          "path": "/leaking-shower-repair-cost-sydney",
+          "newRecordId": "SCHEMA-0704FC0D"
+        },
+        {
+          "path": "/guides/shower-waterproofing-membranes-explained",
+          "newRecordId": "SCHEMA-6CC13842"
+        },
+        {
+          "path": "/what-are-the-best-ways-to-fix-a-leaky-shower-head",
+          "newRecordId": "SCHEMA-FE644794"
+        },
+        {
+          "path": "/guides/who-pays-for-a-leaking-shower-strata-landlord-tenant",
+          "newRecordId": "SCHEMA-F9225F2C"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-A591069E"
+        },
+        {
+          "path": "/blogs",
+          "newRecordId": "SCHEMA-EC448ACF"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-06816A35"
+        },
+        {
+          "path": "/terms",
+          "newRecordId": "SCHEMA-F9489DE8"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-12FD23F3"
+        }
+      ]
+    }
+  ]
+}
