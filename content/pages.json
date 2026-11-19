@@ -10,11 +10,13 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-5",
     "status": "published",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-11-19T04:08:59.060Z",
+    "updatedBy": "sebastian",
     "createdAt": "2026-11-14T03:27:26.995Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/fix-leaking-showers-tradesman-sealing-a-leaking.jpg",
+    "featuredImageAlt": "Fix Leaking Showers tradesman sealing a leaking shower recess in a Sydney bathroom"
   },
   {
     "id": "pg-7",
