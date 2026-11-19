@@ -978,8 +978,10 @@
     "status": "published",
     "createdAt": "2026-11-15T22:12:26.451Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:18:09.083Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-why-is-my-shower-leaking.jpg",
+    "featuredImageAlt": "Water pooling on a bathroom floor outside a leaking shower screen"
   },
   {
     "id": "pg-63",
