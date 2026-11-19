@@ -944,8 +944,10 @@
     "status": "published",
     "createdAt": "2026-11-15T22:12:26.451Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-19T02:57:48.498Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T04:18:01.455Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/blog-water-leaking-through-bathroom-ceiling.jpg",
+    "featuredImageAlt": "Ring-shaped water stain and a drip on a bathroom ceiling below an upstairs shower"
   },
   {
     "id": "pg-61",
